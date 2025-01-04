@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thianesh-03
 - 👀 Interested in Full-stack development
-- 👀 Leaning towards MEAN stack
+- 👀 Leaning towards MERN stack
 - 🌱 Currently learning frameworks and DSA
 - 💞️ Looking to collaborate on Web development
 - 📫 How to reach me LinkedIn - [Thianesh Govindasamy](https://www.linkedin.com/in/thianesh-g-686975200)
