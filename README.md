@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thianesh-03
-- 👀 Interested in Full-stack development
+- 👀 Interested in Full-stack development 
 - 👀 Leaning towards MERN stack
 - 🌱 Currently learning frameworks and DSA
 - 💞️ Looking to collaborate on Web development
