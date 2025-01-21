@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a react project<br>👯 I’m looking to collaborate on Full-stack projects<br>🤝 I’m looking for help with opportunities for Full-stack developer positions<br>🌱 I’m currently learning MERN stack
+🔭 I’m currently working on a react project,<br>👯 I’m looking to collaborate on Full-stack projects<br>🤝 I’m looking for help with opportunities for Full-stack developer positions<br>🌱 I’m currently learning MERN stack
 
 
 ## 🌐 Socials:
